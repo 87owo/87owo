@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I'm currently researching projects related to cybersecurity and deep learning, aiming to integrate various industries.
-🤔 I was born after 2000, so I'm not sharing my exact age or birthday. Just know that I'm a student.
-⚡ I currently have over a million lines of code development experience, primarily using Python and C.
-💬 You can contact me on Discord. There should be a group invite link next to my Github homepage.
+- 🔭 I'm currently researching projects related to cybersecurity and deep learning, aiming to integrate various industries.
+- 🤔 I was born after 2000, so I'm not sharing my exact age or birthday. Just know that I'm a student.
+- ⚡ I currently have over a million lines of code development experience, primarily using Python and C.
+- 💬 You can contact me on Discord. There should be a group invite link next to my Github homepage.
