@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Here is my self introduction. 👋
 
 - 🔭 I'm currently researching projects related to cybersecurity and deep learning, aiming to integrate various industries.
 - 🤔 I was born after 2000, so I'm not sharing my exact age or birthday. Just know that I'm a student.
