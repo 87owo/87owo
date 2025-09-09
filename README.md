@@ -1,4 +1,4 @@
-## Hi there, Here is my self introduction. 👋
+## 👋 Hi there, Here is my self introduction.
 
 - 🔭 I'm working on security and deep learning projects, integrating them across various industries.
 - ⚡ I currently have over a million lines of code development experience, primarily using Python and C.
